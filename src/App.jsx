@@ -5,7 +5,7 @@ import Search from './components/search';
 import MovieBanner from './components/MovieBanner';
 
 const API_BASE_URL = "https://api.themoviedb.org/3";
-const API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI1YjEzZGQxMThiMTUwZjM5YTliNjBiM2VhYTRjMmM3MSIsIm5iZiI6MTc0MjI2MzQwOS4yMTUwMDAyLCJzdWIiOiI2N2Q4ZDQ3MTU2MmU4MzJjOTczNjRjY2QiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.EAy5VGEW6uJ8blHs8vsBjI6Bw1NMTfOXJSw-da3OWco";
+const API_KEY = "";
 const API_OPTIONS = {
   method: 'GET',
   headers: {
